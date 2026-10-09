@@ -10,18 +10,18 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 1.38h | 1 |
+| Week 1 | Tier 1 | 2.48h | 1 |
 
 ## Contents
 
-1. [2026-10-08 – Today I started building Starbie project and after working for more than hour I only completed half of it, tomorrow I will complete it.](#2026-10-08-today-i-started-building-starbie-project-and-afte)
+1. [2026-10-08 – Today I tried to make pcb editor and I have faced amny problems, but I made it( I hope so). another problem I faced is problem with Lapse, it is not showing my lapse.](#2026-10-08-today-i-tried-to-make-pcb-editor-and-i-have-faced)
 
 ## Design
 
-### 2026-10-08 – Today I started building Starbie project and after working for more than hour I only completed half of it, tomorrow I will complete it.
+### 2026-10-08 – Today I tried to make pcb editor and I have faced amny problems, but I made it( I hope so). another problem I faced is problem with Lapse, it is not showing my lapse.
 
-**1.38h**
+**2.48h**
 
-Today I started building Starbie project and after working for more than hour I only completed half of it, tomorrow I will complete it.
+Today I tried to make pcb editor and I have faced amny problems, but I made it( I hope so). another problem I faced is problem with Lapse, it is not showing my lapse.
 
 [Timelapse](https://lookout.hackclub.com/api/media/a7238642-3e63-4c63-bb5d-ff5a08f5eca8/video.mp4)
