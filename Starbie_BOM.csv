@@ -1,0 +1,8 @@
+Reference,Value,Footprint,Qty,Description / Note
+J1,Display_128x64_096_I2C,Imported Parts:Display_128x64_096_I2C,1,0.96 inch I2C OLED Display (4-pin header)
+J2,Conn_01x08_Pin,Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical,1,MPU6050 Accelerometer/Gyroscope Module (8-pin header)
+R1,10k,Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,1,"10k Ohm Resistor, Through-Hole"
+SW1,SW_Push,Button_Switch_THT:SW_PUSH_6mm,1,6mm x 6mm Tactile Push Button Switch
+SW2,SW_Push,Button_Switch_THT:SW_PUSH_6mm,1,6mm x 6mm Tactile Push Button Switch
+U1,XIAO-ESP32-C3-SMD,RF_Module:MCU_Seeed_ESP32C3,1,Seeed Studio XIAO ESP32-C3 Microcontroller Board
+U2,DHT11,Sensor:Aosong_DHT11_5.5x12.0_P2.54mm,1,DHT11 Temperature & Humidity Sensor Module
