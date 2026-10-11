@@ -1,0 +1,24 @@
+# KiCad
+*.kicad_prl
+*.net
+*.kicad_pro.bak
+
+# Arduino
+*.o
+*.a
+*.so
+*.dll
+*.dylib
+*.exe
+*.out
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
