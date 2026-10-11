@@ -20,7 +20,7 @@
 | [XIAO-ESP32-C3-SMD](https://www.seeedstudio.com/) | Main board | 1 | $4.90 | $4.90 | [Seeed Studio](https://www.seeedstudio.com/) |
 | [DHT11](https://www.lcsc.com/) | Temp & Humidity sensor | 1 | $1.46 | $1.46 | [LCSC](https://www.lcsc.com/) |
 | **Parts subtotal** | — | — | — | **$8.87** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$8.87** | — |
+| **Tax & shipping** | — | — | — | **$5.00** | — |
+| **Total** | — | — | — | **$13.87** | — |
 
-$21.13 left of the tier's funding.
+$16.13 left of the tier's funding.
